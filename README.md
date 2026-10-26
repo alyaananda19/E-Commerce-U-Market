@@ -74,15 +74,6 @@ Pengembangan dilakukan dalam 4 sprint:
 3. **Sprint 3:** implementasi checkout, konfirmasi pesanan, pesanan saya, serta halaman admin.
 4. **Sprint 4:** implementasi Toko Saya, profil toko, Syarat & Ketentuan, Hubungi Kami, serta pengujian dan evaluasi UEQ.
 
-## Tampilan
-
-| Beranda | Detail Produk |
-|---|---|
-| ![Beranda](docs/screenshots/beranda.png) | ![Detail Produk](docs/screenshots/detail-produk.png) |
-
-| Toko Saya | Dashboard Admin |
-|---|---|
-| ![Toko Saya](docs/screenshots/toko-saya.png) | ![Dashboard Admin](docs/screenshots/dashboard-admin.png) |
 
 ## Menjalankan di Lokal
 
